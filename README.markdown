@@ -1,5 +1,7 @@
 ## Consistency-In-Reference-Frames
- 
+
+![LinkedIn post](https://media.licdn.com/dms/image/v2/D5622AQGyhAGOaCqU3g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721680438094?e=1728518400&v=beta&t=TPi1GsFZWH-yTJvk84ecGD62u1BkMLs4Mqw66XumpOE)
+
 From the
 [paper](http://geodesy.unr.edu/publications/Blewitt_Ref_Frame_2003.pdf)
 ...
