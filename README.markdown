@@ -28,10 +28,14 @@ topic of reference frames and earth deformation
 at large scale, so this paper is on my favorite
 list as well.
 
----
+## Source
 
 Blewitt, G. (2003), Self-consistency in reference frames, 
 geocenter definition, and surface loading of the solid Earth, 
 J. Geophys. Res., 108, 2103, doi:
 [10.1029/2002JB002082](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2002JB002082#:~:text=Self%2Dconsistent%20descriptions%20of%20surface,harmonic%20component%20of%20surface%20loads.)
 , B2.
+
+## Post
+
+[LinkedIn post](https://www.linkedin.com/posts/robert-crummett_figure-2-from-blewitt-2003-self-consistency-activity-7221251155484364802-6ZDX?utm_source=share&utm_medium=member_desktop)
